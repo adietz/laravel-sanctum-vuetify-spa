@@ -7,8 +7,8 @@
     "laravel"
   ],
   "license": "MIT",
-  "version": "1.0.0",
-  "stability": "v1.0",
+  "version": "1.0.2",
+  "stability": "v1.0.2",
   "require": {
     "php": "^7.3|^8.0",
     "fruitcake/laravel-cors": "^2.0",
